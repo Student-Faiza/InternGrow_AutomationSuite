@@ -65,7 +65,7 @@ Automation complete!
 - `plyer` library (for cross-platform desktop notifications)
 
 ## Author
-Built as part of the InternGrow Python Programming Track internship.
+Built by Faiza (Student-Faiza) as part of the InternGrow Python Programming Track internship.
 
 ## Demo Video
 (Link to be added after recording)
