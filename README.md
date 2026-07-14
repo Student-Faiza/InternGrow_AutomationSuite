@@ -68,4 +68,6 @@ Automation complete!
 Built by Faiza (Student-Faiza) as part of the InternGrow Python Programming Track internship.
 
 ## Demo Video
-(Link to be added after recording)
+- Part 1 (Code Walkthrough): [Watch on LinkedIn](https://www.linkedin.com/posts/hafiza-faiza-466376414_python-codinginternship-interngrow-activity-7482480190606958592-cqCR)
+
+- Part 2 (Output Demo): [Watch on LinkedIn](https://www.linkedin.com/posts/hafiza-faiza-466376414_python-codinginternship-interngrow-ugcPost-7482709931096334338-piX8)
